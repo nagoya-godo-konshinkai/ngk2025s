@@ -166,9 +166,9 @@ NGK2023Sでは「東海地方に縁のあるIT系コミュニティの発展を�
 https://nagoya-godo-konshinkai.github.io/ngk2025s/anti-harassment-policy.html
 
 # 過去のイベント実績
-* [2024開催](https://ngk2022s.connpass.com/event/294313/)
-* [2023開催](https://ngk2022s.connpass.com/event/265837/)
-* [2022開催](https://ngk2022s.connpass.com/event/233520/)
+* [2024開催](https://ngk.connpass.com/event/294313/)
+* [2023開催](https://ngk.connpass.com/event/265837/)
+* [2022開催](https://ngk.connpass.com/event/233520/)
 * [2021開催](https://ngk2021s.netlify.app/)
 * [2020開催](https://ngk2020s.netlify.app/)
 * [2018開催](https://ngk2018b.connpass.com/)
