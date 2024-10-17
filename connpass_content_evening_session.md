@@ -2,7 +2,8 @@
 NGK（名古屋合同懇親会）とは、1年に1度行っている東海地方IT系コミュニティ合同の懇親会イベントです。
 今回で第17回目となります！
 
-今年ももちろん＼オフライン開催！／
+今年ももちろん＼🍤オフライン開催！🍤／
+
 ケータリングでの懇親会も開催予定です。
 
 また、今年は会場スポンサーとして、伊藤忠テクノソリューションズ様に会場提供いただけることになりました。
@@ -12,10 +13,16 @@ NGK（名古屋合同懇親会）とは、1年に1度行っている東海地方
 
 参加される方は**必ず[アンチハラスメントポリシー](https://nagoya-godo-konshinkai.github.io/ngk2025s/anti-harassment-policy.html)をお読みの上**、connpassページから参加申込を行ってください。
 
+なお会場のセキュリティ上、参加申込時に「氏名（本名）」の記入が必要です。また身分証（免許証・身分証明・名刺等）の確認を行う可能性がありますのでご了承ください。
+
+記入頂いた内容は入場者の確認にのみ使用いたします。
+
+
 # 開催日時・場所
 日時: 2025年1月18日(土)
 
-会場: [中日ビル セミナースペース](https://maps.app.goo.gl/Gww8KMXanv1NbK8g8)
+会場: [中日ビル 伊藤忠テクノソリューションズ様 セミナースペース](https://maps.app.goo.gl/Gww8KMXanv1NbK8g8)
+
 
 
 # 昼の部: LT大会
@@ -28,7 +35,7 @@ NGK（名古屋合同懇親会）とは、1年に1度行っている東海地方
 19:00～20:00（多少前後する可能性あり）
 
 ### 参加費
-社会人4000円程度、学生1000円程度（必ず学生証をお持ちください）を予定しています。
+社会人4000~5000円程度、学生1000円程度（必ず学生証をお持ちください）を予定しています。
 
 
 # タイムテーブル（多少前後する可能性あり）
@@ -56,18 +63,41 @@ NGK（名古屋合同懇親会）とは、1年に1度行っている東海地方
 </table>
 
 # 企業スポンサー（五十音順）
+## 会場提供スポンサー
 <table>
 <tr>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2023s/img/sponsor/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2023s/img/sponsor/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2023s/img/sponsor/empty.png"/><br/>準備中</td>
-</tr>
-<tr>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2023s/img/sponsor/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2023s/img/sponsor/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2023s/img/sponsor/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/sponsor/ctc.png"/><br/><a href="https://www.ctc-g.co.jp/">伊藤忠テクノソリューションズ株式会社</a></td>
 </tr>
 </table>
+
+## ゴールドスポンサー
+<table>
+<tr>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/sponsor/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/sponsor/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/sponsor/empty.png"/><br/>準備中</td>
+</tr>
+<tr>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/sponsor/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/sponsor/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/sponsor/empty.png"/><br/>準備中</td>
+</tr>
+</table>
+
+## シルバースポンサー
+<table>
+<tr>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/sponsor/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/sponsor/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/sponsor/empty.png"/><br/>準備中</td>
+</tr>
+<tr>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/sponsor/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/sponsor/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/sponsor/empty.png"/><br/>準備中</td>
+</tr>
+</table>
+
 
 
 # 協力コミュニティ（申し込み順）
@@ -109,10 +139,10 @@ https://nagoya-godo-konshinkai.github.io/ngk2025s/anti-harassment-policy.html
 ※abc順
 * [antimon2](https://connpass.com/user/antimon2/open/)
 * [ex_SOUL](https://connpass.com/user/ex_SOUL/open/)
-* [ふじみ](https://connpass.com/user/mf_toyota/presentation/open/)
 * [h_hiro_](https://connpass.com/user/h_hiro_/open/)
 * [imamuray](https://connpass.com/user/imamuray/open/)
 * [katzueno](https://connpass.com/user/katzueno/open/)
+* [ふじみ](https://connpass.com/user/mf_toyota/open/)
 * [usakotail](https://connpass.com/user/usakotail/open/)
 * [unarist](https://connpass.com/user/unarist/open/)
 * [youhei_yamaguchi](https://connpass.com/user/youhei_yamaguchi/open/)
@@ -121,3 +151,9 @@ https://nagoya-godo-konshinkai.github.io/ngk2025s/anti-harassment-policy.html
 
 ## 名誉会長
 * [terurou](https://connpass.com/user/terurou/)
+
+# お問い合わせ
+
+各種お問い合わせは[イベント管理者への問い合わせ]よりお願いいたします。
+
+運営へ参加・協力いただける方は[NGK 実行委員会 運営参加応募フォーム](https://docs.google.com/forms/d/e/1FAIpQLSeprar-ncaWQfn2u_ROqSu8QQN1qI6aJ8Sz9E17vvRTXfS8ag/viewform)よりお願いいたします。
