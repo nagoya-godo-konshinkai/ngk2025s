@@ -13,15 +13,15 @@ NGK（名古屋合同懇親会）とは、1年に1度行っている東海地方
 
 参加される方は**必ず[アンチハラスメントポリシー](https://nagoya-godo-konshinkai.github.io/ngk2025s/anti-harassment-policy.html)をお読みの上**、connpassページから参加申込を行ってください。
 
-なお会場のセキュリティ上、参加申込時に「氏名（本名）」の記入が必要です。また身分証（免許証・身分証明・名刺等）の確認を行う可能性がありますのでご了承ください。
-
-記入頂いた内容は入場者の確認にのみ使用いたします。
-
+なお会場のセキュリティ上、参加申込時に「氏名（本名）」の記入が必要です。また身分証（免許証・身分証明・名刺等）の確認を行う可能性がありますのでご了承ください。記入頂いた内容は入場者の確認にのみ使用いたします。
 
 # 開催日時・場所
 日時: 2025年1月18日(土)
 
 会場: [中日ビル 伊藤忠テクノソリューションズ様 セミナースペース](https://maps.app.goo.gl/Gww8KMXanv1NbK8g8)
+
+会場への詳細な経路は今後本ページに掲載予定です。
+
 
 # 昼の部: LT大会
 ### 時間
@@ -32,13 +32,14 @@ NGK（名古屋合同懇親会）とは、1年に1度行っている東海地方
 
 # 夜の部：懇親会
 昼の部と同会場にてケータリングを行う予定です。詳細は現在準備中ですのでしばらくお待ち下さい。
-お申込みconnpassページ: [NGK2025S 懇親会]()
+
+お申込みconnpassページ: [NGK2025S 懇親会](https://ngk.connpass.com/event/334809/)
 
 ### 時間
 19:00～20:00（多少前後する可能性あり）
 
 ### 参加費
-社会人4000~5000円程度、学生1000円程度（必ず学生証をお持ちください）を予定しています。
+社会人5000円程度、学生1000円程度（必ず学生証をお持ちください）を予定しています。
 
 # 募集中の内容
 ## 一般LT
@@ -51,7 +52,8 @@ NGKはIT系コミュニティ合同のイベントではありますが、LT内�
 LT発表を希望される方は、[LTレギュレーション](https://nagoya-godo-konshinkai.github.io/ngk2025s/lt_regulation.html)をお読みの上、connpassページの一般LT枠から参加申込を行ってください。
 
 また、LT発表の内容・タイトルが[LTレギュレーション](https://nagoya-godo-konshinkai.github.io/ngk2025s/lt_regulation.html)に適合するかどうか事前に審査を行いますので、参加申込と同時に[応募フォーム](https://forms.gle/Ewbbb7p4BchjKQSEA)に必要事項を入力してください。
-審査通過の可否に関わらず、応募フォームに入力いただいたメールアドレスに連絡いたします。（万が一2週間以上連絡が無い場合、審査漏れ等の可能性がありますので一度[イベント管理者への問い合わせ]よりお問い合わせください。）
+
+審査通過の可否に関わらず、応募フォームに入力いただいたメールアドレスに連絡いたします。（万が一1週間以上連絡が無い場合、審査漏れ等の可能性がありますので一度[イベント管理者への問い合わせ]よりお問い合わせください。）
 審査および採択は随時行います。
 
 ### 申し込み期限
@@ -65,7 +67,7 @@ NGK2025Sでは「東海地方に縁のあるIT系コミュニティの発展を�
 企業スポンサーとして支援いただいた際には企業ロゴの掲載・スポンサーLT等を行うことができ、特典の異なる「GOLDスポンサー」「SILVERスポンサー」の2種類を用意しています。
 
 ### 申し込み方法
-詳細は[企業スポンサー募集要綱](https://nagoya-godo-konshinkai.github.io/ngk2025s/sponsors-prospectus.md)をご覧ください。
+詳細は[企業スポンサー募集要綱](https://nagoya-godo-konshinkai.github.io/ngk2025s/sponsors-prospectus.html)をご覧ください。
 
 ### 申し込み期限
 **2023/11/29（金） 18:00**
@@ -73,16 +75,32 @@ NGK2025Sでは「東海地方に縁のあるIT系コミュニティの発展を�
 申し込み多数の場合は先着順となりますので、申込み期限前でもお断りする可能性があります。ご了承ください。
 
 ## 協力コミュニティ
-NGK2023Sでは「東海地方に縁のあるIT系コミュニティの発展を図る」目的でコミュニティ活動を宣伝できる場を用意しております。
+NGK2025Sでは「東海地方に縁のあるIT系コミュニティの発展を図る」目的でコミュニティ活動を宣伝できる場を用意しております。
+
 協力コミュニティとして参加していただくと、コミュニティロゴの掲載・コミュニティLT等を行うことができます。また、参加費用は無料です！
 
 ### 申し込み方法
-詳細は[コミュニティ参加募集要綱](https://nagoya-godo-konshinkai.github.io/ngk2025s/community-prospectus.md)をご覧ください。
+詳細は[コミュニティ参加募集要綱](https://nagoya-godo-konshinkai.github.io/ngk2025s/community-prospectus.html)をご覧ください。
 
 ### 申し込み期限
 **2024/12/27（金） 18:00**
 
 申し込み多数の場合は先着順となりますので、申込み期限前でもお断りする可能性があります。ご了承ください。
+
+## パトロン ✨new✨
+NGK2025Sを支援していただけるパトロンを募集しています。
+
+社会人参加者の皆さん、東海地方IT系コミュニティの将来を担う学生さんを支援しませんか？
+
+夕飯を奢るぐらいの気持ちでぜひ！ご支援の程よろしくお願いいたします。
+
+### 申し込み方法
+詳細は[パトロン募集要綱](https://nagoya-godo-konshinkai.github.io/ngk2025s/patron-prospectus.html)をご覧ください。
+
+### 申し込み期限
+**2024/12/27（金） 18:00**
+
+申し込み多数の場合は、申込み期限前でも募集終了する可能性があります。ご了承ください。
 
 
 # タイムテーブル（多少前後する可能性あり）
@@ -120,46 +138,50 @@ NGK2023Sでは「東海地方に縁のあるIT系コミュニティの発展を�
 ## ゴールドスポンサー
 <table>
 <tr>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/sponsor/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/sponsor/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/sponsor/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/>準備中</td>
 </tr>
 <tr>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/sponsor/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/sponsor/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/sponsor/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/>準備中</td>
 </tr>
 </table>
 
 ## シルバースポンサー
 <table>
 <tr>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/sponsor/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/sponsor/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/sponsor/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/>準備中</td>
 </tr>
 <tr>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/sponsor/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/sponsor/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/sponsor/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/>準備中</td>
 </tr>
 </table>
+
+# パトロン（申し込み順）
+
 
 # 協力コミュニティ（申し込み順）
 <table>
 <tr>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/>準備中</td>
 </tr>
 <tr>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/>準備中</td>
 </tr>
 </table>
+
 
 
 # アンチハラスメントポリシー
@@ -182,6 +204,7 @@ https://nagoya-godo-konshinkai.github.io/ngk2025s/anti-harassment-policy.html
 
 # スタッフ
 ※abc順
+
 * [antimon2](https://connpass.com/user/antimon2/open/)
 * [ex_SOUL](https://connpass.com/user/ex_SOUL/open/)
 * [h_hiro_](https://connpass.com/user/h_hiro_/open/)
@@ -197,9 +220,18 @@ https://nagoya-godo-konshinkai.github.io/ngk2025s/anti-harassment-policy.html
 ## 名誉会長
 * [terurou](https://connpass.com/user/terurou/)
 
+# 注意事項
+
+当イベントでは、記録および広報を目的とした撮影を行う可能性があります。撮影に際してはできる限り個人情報に配慮し、顔が映り込まないように等注意いたしますが、参加者の皆様が映り込む可能性がありますので、あらかじめご了承ください。
+
+撮影に際してご不都合がある場合は
+[イベント管理者への問い合わせ]より事前にご連絡をお願いいたします。ご理解とご協力をお願いいたします。
 
 # お問い合わせ
 
 各種お問い合わせは[イベント管理者への問い合わせ]よりお願いいたします。
 
+NGKはボランティアの運営メンバー、およびスポンサー・コミュニティ・参加者の皆さんの協力によって開催されています。
+
 運営へ参加・協力いただける方は[NGK 実行委員会 運営参加応募フォーム](https://docs.google.com/forms/d/e/1FAIpQLSeprar-ncaWQfn2u_ROqSu8QQN1qI6aJ8Sz9E17vvRTXfS8ag/viewform)よりお願いいたします。
+
