@@ -100,7 +100,7 @@ NGK（名古屋合同懇親会）とは、1年に1度行っている東海地方
 
 # パトロン（申し込み順）
 
-# 協力コミュニティ（申し込み順）
+# コミュニティ参加（申し込み順）
 <table>
 <tr>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/>準備中</td>
