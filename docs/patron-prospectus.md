@@ -31,9 +31,11 @@ NGK2025Sでは「東海地方に縁のあるIT系コミュニティの発展を�
 
 ### 一般LTも併せて希望される方
 
-1. [一般LT応募フォーム](https://forms.gle/Ewbbb7p4BchjKQSEA) に必要事項を入力してください。
-    * connpass での申込みの前にご記入・送信してください。詳細はconnpassページ一般LT募集をご覧ください。
-2. **採択のご連絡後に** connpass昼の部イベントページ「パトロン枠（一般LT）」より参加を申し込んでください。
+1. [LTレギュレーション](https://nagoya-godo-konshinkai.github.io/ngk2025s/lt_regulation.html)をお読みの上、[一般LT応募フォーム](https://docs.google.com/forms/d/e/1FAIpQLSfexoLgBzaEU_-_665lWzrjdYDc_TOOOEeCVyH5mMk8b_c14Q/viewform?usp=pp_url&entry.1495865301=%E3%83%91%E3%83%88%E3%83%AD%E3%83%B3%E6%9E%A0%EF%BC%88%E4%B8%80%E8%88%ACLT%EF%BC%89) に必要事項を入力してください。
+    * connpass での申込みの前にご記入・送信してください。
+    * 審査通過の可否に関わらず、応募フォームに入力いただいたメールアドレスに連絡いたします。審査および採択は随時行います。
+    （万が一 2週間以上連絡が無い場合、審査漏れ等の可能性がありますので一度[イベント管理者への問い合わせ]よりお問い合わせください。）
+1. **採択のご連絡後に** connpass昼の部イベントページ「パトロン枠（一般LT）」より参加を申し込んでください。
     * 「一般LT枠」での申込みの必要はありません。
 
 ### 一般LTは希望されない方
