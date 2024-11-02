@@ -25,7 +25,7 @@ NGK（名古屋合同懇親会）とは、1年に1度行っている東海地方
 
 # 昼の部: LT大会
 ### 時間
-13:00～19:00（多少前後する可能性あり）
+13:00～18:30（多少前後する可能性あり）
 
 ### 参加費
 無料
@@ -36,7 +36,7 @@ NGK（名古屋合同懇親会）とは、1年に1度行っている東海地方
 昼の部と併せて[NGK2025S 懇親会](https://ngk.connpass.com/event/334809/)よりお申込みください！
 
 ### 時間
-19:00～20:00（多少前後する可能性あり）
+18:30～20:30（多少前後する可能性あり）
 
 ### 参加費
 社会人5000円程度、学生1000円程度（必ず学生証をお持ちください）を予定しています。
@@ -115,18 +115,18 @@ NGK2025Sを支援していただけるパトロンを募集しています。
 </tr>
 <tr>
 <td align="center" style="padding: 12px;"><br/>昼の部オープニング</td>
-<td align="center" style="padding: 12px;"><br/>13:45</td>
-<td align="center" style="padding: 12px;"><br/>13:55</td>
+<td align="center" style="padding: 12px;"><br/>13:00</td>
+<td align="center" style="padding: 12px;"><br/>13:15</td>
 </tr>
 <tr>
 <td align="center" style="padding: 12px;"><br/>昼の部本会</td>
-<td align="center" style="padding: 12px;"><br/>13:55</td>
-<td align="center" style="padding: 12px;"><br/>19:00</td>
+<td align="center" style="padding: 12px;"><br/>13:15</td>
+<td align="center" style="padding: 12px;"><br/>18:00</td>
 </tr>
 <tr>
 <td align="center" style="padding: 12px;"><br/>夜の部</td>
-<td align="center" style="padding: 12px;"><br/>19:00</td>
-<td align="center" style="padding: 12px;"><br/>20:00</td>
+<td align="center" style="padding: 12px;"><br/>18:30</td>
+<td align="center" style="padding: 12px;"><br/>20:30</td>
 </tr>
 </table>
 
