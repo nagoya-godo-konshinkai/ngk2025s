@@ -141,12 +141,12 @@ NGK2025Sを支援していただけるパトロンを募集しています。
 ## ゴールドスポンサー
 <table>
 <tr>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/><a href="https://smarthr.co.jp/">株式会社SmartHR</a></td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/sponsor/leaner.png"/><br/><a href="https://leaner.co.jp/">株式会社Leaner Technologies</a></td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/><a href="https://www.sakura.ad.jp/">さくらインターネット株式会社</a></td>
 </tr>
 <tr>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/sponsor/kci.png"/><br/><a href="https://www.kurusugawa.jp/">有限会社来栖川電算</a></td>
 <td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/>準備中</td>
 <td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/>準備中</td>
 </tr>
@@ -155,7 +155,7 @@ NGK2025Sを支援していただけるパトロンを募集しています。
 ## シルバースポンサー
 <table>
 <tr>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/sponsor/kxc.png"/><br/><a href="https://kxc.inc">合同会社コトイコンサルタンシー</a></td>
 <td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/>準備中</td>
 <td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/>準備中</td>
 </tr>
