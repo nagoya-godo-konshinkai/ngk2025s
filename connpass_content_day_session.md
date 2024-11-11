@@ -168,6 +168,9 @@ NGK2025Sを支援していただけるパトロンを募集しています。
 
 # パトロン（申し込み順）
 
+* [**たつきち** 様](https://connpass.com/user/ttskch/)
+* [**squld** 様](https://connpass.com/user/squld/)
+
 
 # コミュニティ参加（申し込み順）
 <table>
