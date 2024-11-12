@@ -6,7 +6,7 @@ NGK（名古屋合同懇親会）とは、1年に1度行っている東海地方
 
 ケータリングでの懇親会も開催します！！
 
-また、今年は会場スポンサーとして、伊藤忠テクノソリューションズ様に会場提供いただけることになりました。
+また、今年は会場スポンサーとして、伊藤忠テクノソリューションズ株式会社様に会場提供いただけることになりました。
 
 名古屋近郊での勉強会に日常的に参加している方はもちろん、今まで勉強会に参加したことがない方や他の地域の方にとっても、名古屋近辺のIT系コミュニティの雰囲気を知るのに良い機会です。
 お気軽にご参加ください。
@@ -80,12 +80,12 @@ NGK（名古屋合同懇親会）とは、1年に1度行っている東海地方
 ## ゴールドスポンサー
 <table>
 <tr>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/sponsor/smarthr.png"/><br/><a href="https://smarthr.co.jp/">株式会社SmartHR</a></td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/sponsor/leaner.png"/><br/><a href="https://leaner.co.jp/">株式会社Leaner Technologies</a></td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/><a href="https://www.sakura.ad.jp/">さくらインターネット株式会社</a></td>
 </tr>
 <tr>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/sponsor/kci.png"/><br/><a href="https://www.kurusugawa.jp/">有限会社来栖川電算</a></td>
 <td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/>準備中</td>
 <td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/>準備中</td>
 </tr>
@@ -94,7 +94,7 @@ NGK（名古屋合同懇親会）とは、1年に1度行っている東海地方
 ## シルバースポンサー
 <table>
 <tr>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/sponsor/kxc.png"/><br/><a href="https://kxc.inc">合同会社コトイコンサルタンシー</a></td>
 <td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/>準備中</td>
 <td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/>準備中</td>
 </tr>
@@ -106,6 +106,10 @@ NGK（名古屋合同懇親会）とは、1年に1度行っている東海地方
 </table>
 
 # パトロン（申し込み順）
+
+* [**たつきち** 様](https://connpass.com/user/ttskch/)
+* [**squld** 様](https://connpass.com/user/squld/)
+
 
 # コミュニティ参加（申し込み順）
 <table>
