@@ -82,7 +82,7 @@ NGK（名古屋合同懇親会）とは、1年に1度行っている東海地方
 <tr>
 <td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/sponsor/smarthr.png"/><br/><a href="https://smarthr.co.jp/">株式会社SmartHR</a></td>
 <td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/sponsor/leaner.png"/><br/><a href="https://leaner.co.jp/">株式会社Leaner Technologies</a></td>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/><a href="https://www.sakura.ad.jp/">さくらインターネット株式会社</a></td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/sponsor/sakura-internet.png"/><br/><a href="https://www.sakura.ad.jp/">さくらインターネット株式会社</a></td>
 </tr>
 <tr>
 <td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/sponsor/kci.png"/><br/><a href="https://www.kurusugawa.jp/">有限会社来栖川電算</a></td>
