@@ -171,6 +171,7 @@ https://nagoya-godo-konshinkai.github.io/ngk2025s/anti-harassment-policy.html
 ## 名誉会長
 * [terurou](https://connpass.com/user/terurou/)
 
+
 # 注意事項
 
 当イベントでは、記録および広報を目的とした撮影を行う可能性があります。撮影に際してはできる限り個人情報に配慮し、顔が映り込まないように等注意いたしますが、参加者の皆様が映り込む可能性がありますので、あらかじめご了承ください。
@@ -186,3 +187,6 @@ NGKはボランティアの運営メンバー、およびスポンサー・コ�
 
 運営へ参加・協力いただける方は[NGK 実行委員会 運営参加応募フォーム](https://docs.google.com/forms/d/e/1FAIpQLSeprar-ncaWQfn2u_ROqSu8QQN1qI6aJ8Sz9E17vvRTXfS8ag/viewform)よりお願いいたします。
 
+
+
+イベントバナー制作: [imamuray](https://connpass.com/user/imamuray/open/)
