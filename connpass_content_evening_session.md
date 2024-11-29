@@ -108,6 +108,8 @@ NGK（名古屋合同懇親会）とは、1年に1度行っている東海地方
 <tr>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/ttskch.png"/><br/><a href="https://connpass.com/user/ttskch/">たつきち様</a></td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/squld.png"/><br/><a href="https://connpass.com/user/squld/">squld様</a></td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/TOOKA.png"/><br/><a href="https://connpass.com/user/TOOKA/">tooka_91様</a></td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/Ryo_Haruyama.png"/><br/><a href="https://connpass.com/user/Ryo_Haruyama/">Ryo Haruyama様</a></td>
 </tr>
 </table>
 
