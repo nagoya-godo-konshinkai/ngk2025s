@@ -62,16 +62,16 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 
 申し込み多数の場合は先着順に採択しますので、申込み期限前でもお断りする可能性があります。ご了承ください。
 
-## 企業スポンサー
+## 企業スポンサー ✨SILVERスポンサー申込み期限を延長しました✨
 NGK2025Sでは「東海地方に縁のあるIT系コミュニティの発展を図る」と言う目的にご賛同いただける法人スポンサーを募集中です。
 
-企業スポンサーとして支援いただいた際には企業ロゴの掲載・スポンサーLT等を行うことができ、特典の異なる「GOLDスポンサー」「SILVERスポンサー」の2種類を用意しています。
+企業スポンサーとして支援いただいた際には企業ロゴの掲載を行うことができる「SILVERスポンサー」を用意しています。
 
 ### 申し込み方法
 詳細は[企業スポンサー募集要綱](https://nagoya-godo-konshinkai.github.io/ngk2025s/sponsors-prospectus.html)をご覧ください。
 
 ### 申し込み期限
-**2024/11/29（金） 18:00**
+**2024/12/27（金） 18:00**
 
 申し込み多数の場合は先着順となりますので、申込み期限前でもお断りする可能性があります。ご了承ください。
 
@@ -169,6 +169,8 @@ NGK2025Sを支援していただけるパトロンを募集しています。
 <tr>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/ttskch.png"/><br/><a href="https://connpass.com/user/ttskch/">たつきち様</a></td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/squld.png"/><br/><a href="https://connpass.com/user/squld/">squld様</a></td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/TOOKA.png"/><br/><a href="https://connpass.com/user/TOOKA/">tooka_91様</a></td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/Ryo_Haruyama.png"/><br/><a href="https://connpass.com/user/Ryo_Haruyama/">Ryo Haruyama様</a></td>
 </tr>
 </table>
 
@@ -250,3 +252,6 @@ NGKはボランティアの運営メンバー、およびスポンサー・コ�
 
 運営へ参加・協力いただける方は[NGK 実行委員会 運営参加応募フォーム](https://docs.google.com/forms/d/e/1FAIpQLSeprar-ncaWQfn2u_ROqSu8QQN1qI6aJ8Sz9E17vvRTXfS8ag/viewform)よりお願いいたします。
 
+
+
+イベントバナー制作: [imamuray](https://connpass.com/user/imamuray/open/)

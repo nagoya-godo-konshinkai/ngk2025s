@@ -15,7 +15,8 @@ NGK2025Sでは『東海地方に縁のあるIT系コミュニティの発展を�
 
 ## 参加申し込み
 
-* [Googleフォーム](https://forms.gle/HqhPtUT5b7yv2HTRA)よりお申し込みください。またコミュニティ枠LTを希望する場合は **コミュニティ枠LT発表者のみ** 「コミュニティLT枠」にお申し込みください。
+* [Googleフォーム](https://forms.gle/HqhPtUT5b7yv2HTRA)よりお申し込みください。
+* コミュニティ枠LTを希望する場合は **コミュニティ枠LT発表者のみ** 「コミュニティLT枠」にお申し込みいただき、[応募フォーム](https://forms.gle/Ewbbb7p4BchjKQSEA)に必要事項を入力してください。なお、コミュニティ枠LTは一般LT発表と同じ[LTレギュレーション](https://nagoya-godo-konshinkai.github.io/ngk2025s/lt_regulation.html)となります。
 * 募集枠：10枠（応募多数の場合は増枠する可能性もあります）
 
 ## 注意事項

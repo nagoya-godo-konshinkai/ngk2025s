@@ -108,6 +108,8 @@ NGK（名古屋合同懇親会）とは、1年に1度行っている東海地方
 <tr>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/ttskch.png"/><br/><a href="https://connpass.com/user/ttskch/">たつきち様</a></td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/squld.png"/><br/><a href="https://connpass.com/user/squld/">squld様</a></td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/TOOKA.png"/><br/><a href="https://connpass.com/user/TOOKA/">tooka_91様</a></td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/Ryo_Haruyama.png"/><br/><a href="https://connpass.com/user/Ryo_Haruyama/">Ryo Haruyama様</a></td>
 </tr>
 </table>
 
@@ -171,6 +173,7 @@ https://nagoya-godo-konshinkai.github.io/ngk2025s/anti-harassment-policy.html
 ## 名誉会長
 * [terurou](https://connpass.com/user/terurou/)
 
+
 # 注意事項
 
 当イベントでは、記録および広報を目的とした撮影を行う可能性があります。撮影に際してはできる限り個人情報に配慮し、顔が映り込まないように等注意いたしますが、参加者の皆様が映り込む可能性がありますので、あらかじめご了承ください。
@@ -186,3 +189,6 @@ NGKはボランティアの運営メンバー、およびスポンサー・コ�
 
 運営へ参加・協力いただける方は[NGK 実行委員会 運営参加応募フォーム](https://docs.google.com/forms/d/e/1FAIpQLSeprar-ncaWQfn2u_ROqSu8QQN1qI6aJ8Sz9E17vvRTXfS8ag/viewform)よりお願いいたします。
 
+
+
+イベントバナー制作: [imamuray](https://connpass.com/user/imamuray/open/)
