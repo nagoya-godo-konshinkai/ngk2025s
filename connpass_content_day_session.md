@@ -182,7 +182,7 @@ NGK2025Sを支援していただけるパトロンを募集しています。
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/><a href="https://machine-learning.connpass.com/">機械学習名古屋 研究会</a></td>
 </tr>
 <tr>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/><a href="https://www.jackapp.jp/">名古屋大学アプリ開発団体jack</td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/jack.png"/><br/><a href="https://www.jackapp.jp/">名古屋大学アプリ開発団体jack</td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/scug.jpg"/><br/><a href="https://techplay.jp/community/snowvillage-central">Snowflake中部ユーザー会</td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/tableau.jpg"/><br/><a href="https://techplay.jp/community/tableau-chubu">中部Tableauユーザー会</td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/>準備中</td>
