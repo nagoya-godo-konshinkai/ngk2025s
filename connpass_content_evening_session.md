@@ -125,7 +125,7 @@ NGK（名古屋合同懇親会）とは、1年に1度行っている東海地方
 <table>
 <tr>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/julia-tokai.jpg"/><br/><a href="https://juliatokai.connpass.com/">JuliaTokai</a></td>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/><a href="https://jawsug-nagoya.doorkeeper.jp/">JAWS UG 名古屋</a></td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/jaws-ug-nagoya.png"/><br/><a href="https://jawsug-nagoya.doorkeeper.jp/">JAWS UG 名古屋</a></td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/><a href="https://nagoyavim.connpass.com/">Nagoya.vim</td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/ml-nagoya.png"/><br/><a href="https://machine-learning.connpass.com/">機械学習名古屋 研究会</a></td>
 </tr>
