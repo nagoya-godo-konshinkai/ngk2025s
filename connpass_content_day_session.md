@@ -154,7 +154,7 @@ NGK2025Sを支援していただけるパトロンを募集しています。
 <table>
 <tr>
 <td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/sponsor/kxc.png"/><br/><a href="https://kxc.inc">合同会社コトイコンサルタンシー</a></td>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/><a href="https://cate.co.jp/">株式会社CaTe</td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/sponsor/cate.png"/><br/><a href="https://cate.co.jp/">株式会社CaTe</td>
 <td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/sponsor/nealle.png"/><br/><a href="https://www.nealle.com/">株式会社ニーリー</a></td>
 </tr>
 <tr>
