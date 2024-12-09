@@ -69,7 +69,7 @@ NGK（名古屋合同懇親会）とは、1年に1度行っている東海地方
 
 撤収: 20:30～21:00（参加必須ではありません）
 
-# 企業スポンサー（五十音順）
+# 企業スポンサー（申し込み順）
 ## 会場提供スポンサー
 <table>
 <tr>
@@ -92,12 +92,12 @@ NGK（名古屋合同懇親会）とは、1年に1度行っている東海地方
 ## シルバースポンサー
 <table>
 <tr>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/sponsor/kxc.png"/><br/><a href="https://kxc.inc">合同会社コトイコンサルタンシー</a></td>
 <td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/><a href="https://cate.co.jp/">株式会社CaTe</td>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/><a href="https://smesh.jp">株式会社スタジオメッシュ</td>
 <td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/sponsor/nealle.png"/><br/><a href="https://www.nealle.com/">株式会社ニーリー</a></td>
 </tr>
 <tr>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/sponsor/kxc.png"/><br/><a href="https://kxc.inc">合同会社コトイコンサルタンシー</a></td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/><a href="https://smesh.jp">株式会社スタジオメッシュ</td>
 <td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/>準備中</td>
 <td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/>準備中</td>
 </tr>
