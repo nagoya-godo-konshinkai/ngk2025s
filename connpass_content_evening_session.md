@@ -126,20 +126,20 @@ NGK（名古屋合同懇親会）とは、1年に1度行っている東海地方
 <tr>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/julia-tokai.jpg"/><br/><a href="https://juliatokai.connpass.com/">JuliaTokai</a></td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/jaws-ug-nagoya.png"/><br/><a href="https://jawsug-nagoya.connpass.com/">JAWS UG 名古屋</a></td>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/><a href="https://nagoyavim.connpass.com/">Nagoya.vim</td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/><a href="https://nagoyavim.connpass.com/">Nagoya.vim</a></td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/ml-nagoya.png"/><br/><a href="https://machine-learning.connpass.com/">機械学習名古屋 研究会</a></td>
 </tr>
 <tr>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/jack.png"/><br/><a href="https://www.jackapp.jp/">名古屋大学アプリ開発団体jack</td>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/scug.jpg"/><br/><a href="https://techplay.jp/community/snowvillage-central">Snowflake中部ユーザー会</td>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/tableau.jpg"/><br/><a href="https://techplay.jp/community/tableau-chubu">中部Tableauユーザー会</td>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/delanagoya.png"/><br/><a href="https://delanagoya.connpass.com/">デラなごや.js</td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/jack.png"/><br/><a href="https://www.jackapp.jp/">名古屋大学アプリ開発団体jack</a></td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/scug.jpg"/><br/><a href="https://techplay.jp/community/snowvillage-central">Snowflake中部ユーザー会</a></td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/tableau.jpg"/><br/><a href="https://techplay.jp/community/tableau-chubu">中部Tableauユーザー会</a></td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/delanagoya.png"/><br/><a href="https://delanagoya.connpass.com/">デラなごや.js</a></td>
 </tr>
 <tr>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/><a href="https://centerclr.connpass.com/">Center CLR</td>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/center-clr.png"/><br/><a href="https://centerclr.connpass.com/">Center CLR</a></td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/shachi_py.png"/><br/><a href="https://shachi-py.connpass.com/">鯱.py</a></td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/owasp-nagoya.png"/><br/><a href="https://owasp.org/www-chapter-nagoya/">OWASP Nagoya</a></td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/JBUG_logo.png"/><br/><a href="https://jbuginfo.backlog.com/">JBUG名古屋</a></td>
 </tr>
 </table>
 
