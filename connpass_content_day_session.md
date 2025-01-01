@@ -41,8 +41,8 @@ NGK（名古屋合同懇親会）とは、1年に1度行っている東海地方
 ### 参加費
 社会人5000円程度、学生1000円程度（必ず学生証をお持ちください）を予定しています。
 
-# 募集中の内容
-## 一般LT
+# 各種募集は締切りました
+## 一般LT 【今回の募集は一旦締め切りましたが、応募フォームに未記入の方は早急に記入をお願いいたします！】
 一般LT発表者を募集中です。
 
 NGKはIT系コミュニティ合同のイベントではありますが、LT内容は必ずしも「IT」にこだわる必要はありません。例年、「広島カープ」、「チョコレート」、「京都の風光明媚な写真」などなど、様々なトピックが出てきます。もちろんLT発表初心者も大歓迎です！
@@ -60,53 +60,10 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 ### 申し込み期限
 **2024/12/27（金） 18:00**
 
-申し込み多数の場合は先着順に採択しますので、申込み期限前でもお断りする可能性があります。ご了承ください。
-
-## 企業スポンサー ✨SILVERスポンサー申込み期限を延長しました✨
-NGK2025Sでは「東海地方に縁のあるIT系コミュニティの発展を図る」と言う目的にご賛同いただける法人スポンサーを募集中です。
-
-企業スポンサーとして支援いただいた際には企業ロゴの掲載を行うことができる「SILVERスポンサー」を用意しています。
-
-### 申し込み方法
-詳細は[企業スポンサー募集要綱](https://nagoya-godo-konshinkai.github.io/ngk2025s/sponsors-prospectus.html)をご覧ください。
-
-### 申し込み期限
-**2024/12/27（金） 18:00**
-
-申し込み多数の場合は先着順となりますので、申込み期限前でもお断りする可能性があります。ご了承ください。
-
-## コミュニティ参加
-NGK2025Sでは「東海地方に縁のあるIT系コミュニティの発展を図る」目的でコミュニティ活動を宣伝できる場を用意しております。
-
-『コミュニティ参加』として登録していただくと、コミュニティロゴの掲載・コミュニティLT等を行うことができます。また、参加費用は無料です！
-
-### 申し込み方法
-詳細は[コミュニティ参加募集要綱](https://nagoya-godo-konshinkai.github.io/ngk2025s/community-prospectus.html)をご覧ください。
-
-### 申し込み期限
-**2024/12/27（金） 18:00**
-
-申し込み多数の場合は先着順となりますので、申込み期限前でもお断りする可能性があります。ご了承ください。
-
-## パトロン ✨new✨
-NGK2025Sを支援していただけるパトロンを募集しています。
-
-社会人参加者の皆さん、東海地方IT系コミュニティの将来を担う学生さんを支援しませんか？
-
-夕飯を奢るぐらいの気持ちでぜひ！ご支援の程よろしくお願いいたします。
-
-パトロン限定ノベルティも提供予定です！
-
-### 申し込み方法
-詳細は[パトロン募集要綱](https://nagoya-godo-konshinkai.github.io/ngk2025s/patron-prospectus.html)をご覧ください。
-
-### 申し込み期限
-**2024/12/27（金） 18:00**
-
-申し込み多数の場合は、申込み期限前でも募集終了する可能性があります。ご了承ください。
-
+申し込み多数の場合は応募フォームの先着順に採択しますので、申込み期限前でもお断りする可能性があります。ご了承ください。
 
 # タイムテーブル（多少前後する可能性があります）
+
 <table>
 <tr>
 <td align="center" style="padding: 12px;"><br/>内容</td>
@@ -128,7 +85,6 @@ NGK2025Sを支援していただけるパトロンを募集しています。
 <td align="center" style="padding: 12px;"><br/>18:30</td>
 <td align="center" style="padding: 12px;"><br/>20:30</td>
 </tr>
-</table>
 
 # 企業スポンサー（申し込み順）
 ## 会場提供スポンサー
@@ -160,7 +116,6 @@ NGK2025Sを支援していただけるパトロンを募集しています。
 <tr>
 <td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/sponsor/mesh.png"/><br/><a href="https://smesh.jp">株式会社スタジオメッシュ</td>
 <td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/><a href="https://stmn.co.jp/">株式会社スタメン</a></td>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/>準備中</td>
 </tr>
 </table>
 
@@ -175,9 +130,6 @@ NGK2025Sを支援していただけるパトロンを募集しています。
 </tr>
 <tr>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/haseaki0503.png"/><br/><a href="https://connpass.com/user/haseaki0503/">はせあき様</a></td>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/>準備中</td>
 </tr>
 </table>
 
@@ -198,9 +150,15 @@ NGK2025Sを支援していただけるパトロンを募集しています。
 </tr>
 <tr>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/center-clr.png"/><br/><a href="https://centerclr.connpass.com/">Center CLR</a></td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/gdg_nagoya.png"/><br/><a href="https://gdg.community.dev/gdg-nagoya/">GDG Nagoya</a></td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/>オープンソースカンファレンス Nagoya</a></td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/><a href="https://jaguer.jp/chubu_lp/">Jagu'e'r 中部分科会</a></td>
+</tr>
+<tr>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/matsuriba-tech.png"/><br/><a href="https://www.nxtend.or.jp/">Matsuriba Tech(NxTEND)</a></td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/shachi_py.png"/><br/><a href="https://shachi-py.connpass.com/">鯱.py</a></td>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/owasp-nagoya.png"/><br/><a href="https://owasp.org/www-chapter-nagoya/">OWASP Nagoya</a></td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/JBUG_logo.png"/><br/><a href="https://jbuginfo.backlog.com/">JBUG名古屋</a></td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/owasp-nagoya.png"/><br/><a href="https://owasp.org/www-chapter-nagoya/">OWASP Nagoya</a></td>
 </tr>
 </table>
 

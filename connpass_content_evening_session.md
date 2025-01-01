@@ -30,28 +30,30 @@ NGK（名古屋合同懇親会）とは、1年に1度行っている東海地方
 
 # 夜の部：懇親会
 昼の部と同会場にてケータリングを行います。
-ビュッフェ形式・飲み物（アルコール含む）飲み放題を予定しています。
+ビュッフェ形式・飲み物（アルコール含む）飲み放題となります。
 
 またスポンサー費より懇親会費用を補助頂いています！企業スポンサー・パトロンの皆様ありがとうございます。
 
 ### 参加費
-社会人: 5000円（税込・事前決済）
+社会人: 5000円（税込・事前/現地決済）
 
-学生: 1000円（税込・当日決済、必ず学生証をお持ちください）
+学生: 1000円（税込・現地決済、必ず学生証をお持ちください）
 
-社会人枠はconnpass上での事前決済（paypal経由）となります。なお事前決済（paypal経由）での支払い先は、費用授受担当の 山口陽平宛 となります。
+事前決済（paypal経由）ではconnpassのシステム経由で領収書が発行されます。なお支払い先は、費用授受担当の 山口陽平宛 となります。
+
+現地決済で領収書を希望される場合は、[イベント管理者への問い合わせ]よりお問い合わせください。
 
 また領収書に記載される請求元は、今回のNGK開催において費用授受代行を行う 有限会社来栖川電算 となりますのでご了承ください。（インボイス対応）
 
-なお事前決済が難しい場合は[イベント管理者への問い合わせ]よりお問い合わせください。
+### メニュー・飲み放題ドリンク
 
-### 予定メニュー
+<table>
+<tr>
+<td align="center" style="padding: 12px;"><img width="400px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/menu.png"/><br/></td>
+<td align="center" style="padding: 12px;"><img width="400px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/drink.png"/><br/></td>
+</tr>
+</table>
 
-準備中
-
-### 飲み放題ドリンク
-
-準備中
 
 ### 注意事項
 設営・撤収作業の時間が非常に短いため、設営・撤収のお手伝いをお願いする可能性があります。（参加必須ではありません）
@@ -63,7 +65,7 @@ NGK（名古屋合同懇親会）とは、1年に1度行っている東海地方
 
 # タイムテーブル（多少前後する可能性あり）
 
-設営: 18:00～18:30（参加必須ではありません）
+設営: 18:10～18:30（参加必須ではありません）
 
 懇親会: 18:30～20:30
 
@@ -99,7 +101,6 @@ NGK（名古屋合同懇親会）とは、1年に1度行っている東海地方
 <tr>
 <td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/sponsor/mesh.png"/><br/><a href="https://smesh.jp">株式会社スタジオメッシュ</td>
 <td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/><a href="https://stmn.co.jp/">株式会社スタメン</a></td>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/>準備中</td>
 </tr>
 </table>
 
@@ -113,9 +114,6 @@ NGK（名古屋合同懇親会）とは、1年に1度行っている東海地方
 </tr>
 <tr>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/haseaki0503.png"/><br/><a href="https://connpass.com/user/haseaki0503/">はせあき様</a></td>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/>準備中</td>
 </tr>
 </table>
 
@@ -137,9 +135,15 @@ NGK（名古屋合同懇親会）とは、1年に1度行っている東海地方
 </tr>
 <tr>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/center-clr.png"/><br/><a href="https://centerclr.connpass.com/">Center CLR</a></td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/gdg_nagoya.png"/><br/><a href="https://gdg.community.dev/gdg-nagoya/">GDG Nagoya</a></td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/>オープンソースカンファレンス Nagoya</a></td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/><a href="https://jaguer.jp/chubu_lp/">Jagu'e'r 中部分科会</a></td>
+</tr>
+<tr>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/matsuriba-tech.png"/><br/><a href="https://www.nxtend.or.jp/">Matsuriba Tech(NxTEND)</a></td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/shachi_py.png"/><br/><a href="https://shachi-py.connpass.com/">鯱.py</a></td>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/owasp-nagoya.png"/><br/><a href="https://owasp.org/www-chapter-nagoya/">OWASP Nagoya</a></td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/JBUG_logo.png"/><br/><a href="https://jbuginfo.backlog.com/">JBUG名古屋</a></td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/owasp-nagoya.png"/><br/><a href="https://owasp.org/www-chapter-nagoya/">OWASP Nagoya</a></td>
 </tr>
 </table>
 
