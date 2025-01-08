@@ -336,7 +336,7 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 		<td>16:54</td>
 		<td>17:01</td>
 		<td>0:07</td>
-		<td>hourin</td>
+		<td>tommy</td>
 		<td>ゴールドスポンサーLT【さくらインターネット株式会社様】</td>
 	</tr>
 	<tr>
