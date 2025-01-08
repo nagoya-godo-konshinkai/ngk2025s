@@ -305,7 +305,7 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 		<td>16:33</td>
 		<td>0:07</td>
 		<td>kato-taka　果糖</td>
-		<td>鯱.pyはいいぞ！【鯱.py】</td>
+		<td>鯱.pyはいいぞ！【鯱​.py】</td>
 	</tr>
 	<tr>
 		<th></th>
