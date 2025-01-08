@@ -305,7 +305,7 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 		<td>16:33</td>
 		<td>0:07</td>
 		<td>kato-taka　果糖</td>
-		<td>鯱.pyはいいぞ！【鯱.py】</td>
+		<td>鯱.pyはいいぞ！【鯱​.py】</td>
 	</tr>
 	<tr>
 		<th></th>
@@ -320,7 +320,7 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 		<td>16:40</td>
 		<td>16:47</td>
 		<td>0:07</td>
-		<td>N-YOKU</td>
+		<td>Utahshi</td>
 		<td>Matsuriba Techとは【Matsuriba Tech(NxTEND)】</td>
 	</tr>
 	<tr>
