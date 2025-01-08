@@ -77,9 +77,9 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 <table>
 	<tr>
 		<th>枠</th>
-		<th>開始日時</th>
-		<th>終了日時</th>
-		<th>時間[hh:mm</th>
+		<th>開始</th>
+		<th>終了</th>
+		<th>時間</th>
 		<th>スピーカ</th>
 		<th>タイトル</th>
 	</tr>
@@ -97,7 +97,7 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 		<td>13:17</td>
 		<td>0:07</td>
 		<td>mujyun_furu</td>
-		<td>JAWS-UG名古屋の楽しみ方 【JAWS-UG名古屋】</td>
+		<td>JAWS-UG名古屋の楽しみ方【JAWS-UG名古屋】</td>
 	</tr>
 	<tr>
 		<th></th>
@@ -113,15 +113,15 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 		<td>13:31</td>
 		<td>0:07</td>
 		<td>Kouji Matsui</td>
-		<td>chibiccをCILに移植した結果 【Center CLR】</td>
+		<td>chibiccをCILに移植した結果【Center CLR】</td>
 	</tr>
 	<tr>
 		<th></th>
 		<td>13:31</td>
 		<td>13:38</td>
 		<td>0:07</td>
-		<td>高橋かずひと</td>
-		<td>動物園（PINTO_model_zoo）に遊びに行こう</td>
+		<td>Nonogaki</td>
+		<td>メールヘッダーを見てみよう</td>
 	</tr>
 	<tr>
 		<th></th>
@@ -129,15 +129,15 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 		<td>13:45</td>
 		<td>0:07</td>
 		<td>antimon2</td>
-		<td>JuliaTokai と JuliaLangJa の紹介 【JuliaTokai】</td>
+		<td>JuliaTokai と JuliaLangJa の紹介【JuliaTokai】</td>
 	</tr>
 	<tr>
 		<th></th>
 		<td>13:45</td>
 		<td>13:52</td>
 		<td>0:07</td>
-		<td>iridon0920</td>
-		<td>色々なAWSサービス名の由来を調べてみた</td>
+		<td>高橋かずひと</td>
+		<td>動物園（PINTO_model_zoo）に遊びに行こう</td>
 	</tr>
 	<tr>
 		<th></th>
@@ -145,7 +145,7 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 		<td>13:59</td>
 		<td>0:07</td>
 		<td>山口陽平</td>
-		<td>ゴールドスポンサーLT 【有限会社 来栖川電算様】</td>
+		<td>ゴールドスポンサーLT【有限会社 来栖川電算様】</td>
 	</tr>
 	<tr>
 		<th></th>
@@ -160,8 +160,8 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 		<td>14:09</td>
 		<td>14:16</td>
 		<td>0:07</td>
-		<td>kotashan</td>
-		<td>DM持ちと血糖測定デバイスとアレ2025</td>
+		<td>たつきち</td>
+		<td>いりゃあせ、PHPカンファレンス名古屋2025</td>
 	</tr>
 	<tr>
 		<th></th>
@@ -177,15 +177,15 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 		<td>14:30</td>
 		<td>0:07</td>
 		<td>shinji_ichien</td>
-		<td>GDG Nagoyaのゆるいコミュニティ作りと次やること 【GDG Nagoya】</td>
+		<td>GDG Nagoyaのゆるいコミュニティ作りと次やること【GDG Nagoya】</td>
 	</tr>
 	<tr>
 		<th></th>
 		<td>14:30</td>
 		<td>14:37</td>
 		<td>0:07</td>
-		<td>Yuma Satake</td>
-		<td>Matsuriba のイベントテンプレート</td>
+		<td>iridon0920</td>
+		<td>色々なAWSサービス名の由来を調べてみた</td>
 	</tr>
 	<tr>
 		<th></th>
@@ -193,15 +193,15 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 		<td>14:44</td>
 		<td>0:07</td>
 		<td>村井陽平</td>
-		<td>中部分科会の紹介 【Jagu&#039;e&#039;r　中部文化会】</td>
+		<td>中部分科会の紹介【Jagu&#039;e&#039;r　中部文化会】</td>
 	</tr>
 	<tr>
 		<th></th>
 		<td>14:44</td>
 		<td>14:51</td>
 		<td>0:07</td>
-		<td>tomio2480</td>
-		<td>すべての空間を技術系勉強会にする技術</td>
+		<td>Yuma Satake</td>
+		<td>Matsuriba のイベントテンプレート</td>
 	</tr>
 	<tr>
 		<th></th>
@@ -209,7 +209,7 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 		<td>14:58</td>
 		<td>0:07</td>
 		<td>corocn</td>
-		<td>ゴールドスポンサーLT 【株式会社Leaner Technologies様】</td>
+		<td>ゴールドスポンサーLT【株式会社Leaner Technologies様】</td>
 	</tr>
 	<tr>
 		<th></th>
@@ -225,7 +225,7 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 		<td>15:15</td>
 		<td>0:07</td>
 		<td>塩谷俊介</td>
-		<td>JBUG名古屋はじまるよ 【JBUG】</td>
+		<td>JBUG名古屋はじまるよ【JBUG】</td>
 	</tr>
 	<tr>
 		<th></th>
@@ -241,15 +241,15 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 		<td>15:29</td>
 		<td>0:07</td>
 		<td>島田　啓史</td>
-		<td>オープンソースカンファレンス Nagoyaへのお誘い 【 オープンソースカンファレンス Nagoya】</td>
+		<td>オープンソースカンファレンス Nagoyaへのお誘いOSC名古屋へのお誘い【 オープンソースカンファレンス Nagoya】</td>
 	</tr>
 	<tr>
 		<th></th>
 		<td>15:29</td>
 		<td>15:36</td>
 		<td>0:07</td>
-		<td>shuichi-ikeda</td>
-		<td>Difyを用いたデジタル秘書の開発</td>
+		<td>tomio2480</td>
+		<td>すべての空間を技術系勉強会にする技術</td>
 	</tr>
 	<tr>
 		<th></th>
@@ -257,15 +257,15 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 		<td>15:43</td>
 		<td>0:07</td>
 		<td>中西克典</td>
-		<td>AIで研究会を振り返る 【機械学習名古屋研究会】</td>
+		<td>AIで研究会を振り返る【機械学習名古屋研究会】</td>
 	</tr>
 	<tr>
 		<th></th>
 		<td>15:43</td>
 		<td>15:50</td>
 		<td>0:07</td>
-		<td>Nonogaki</td>
-		<td>メールヘッダーを見てみよう</td>
+		<td>shuichi-ikeda</td>
+		<td>Difyを用いたデジタル秘書の開発</td>
 	</tr>
 	<tr>
 		<th></th>
@@ -273,14 +273,14 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 		<td>15:57</td>
 		<td>0:07</td>
 		<td>ex_SOUL</td>
-		<td>ゴールドスポンサーLT 【株式会社SmartHR様】</td>
+		<td>ゴールドスポンサーLT【株式会社SmartHR様】</td>
 	</tr>
 	<tr>
 		<th></th>
 		<td>15:57</td>
 		<td>16:12</td>
 		<td>0:15</td>
-		<td>休憩 【みんなでラジオ体操✨️】</td>
+		<td>休憩【みんなでラジオ体操✨️】</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -288,8 +288,8 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 		<td>16:12</td>
 		<td>16:19</td>
 		<td>0:07</td>
-		<td>たつきち</td>
-		<td>いりゃあせ、PHPカンファレンス名古屋2025</td>
+		<td>squld</td>
+		<td>VSCode 拡張 Markdown Copilot を作った話</td>
 	</tr>
 	<tr>
 		<th></th>
@@ -305,15 +305,15 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 		<td>16:33</td>
 		<td>0:07</td>
 		<td>kato-taka　果糖</td>
-		<td>鯱.pyはいいぞ！ 【鯱.py】</td>
+		<td>鯱.pyはいいぞ！【鯱.py】</td>
 	</tr>
 	<tr>
 		<th></th>
 		<td>16:33</td>
 		<td>16:40</td>
 		<td>0:07</td>
-		<td>準備中</td>
-		<td></td>
+		<td>あきお</td>
+		<td>年末のリリースが大変で名古屋に遊びに来たらLT会にいた</td>
 	</tr>
 	<tr>
 		<th></th>
@@ -321,7 +321,7 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 		<td>16:47</td>
 		<td>0:07</td>
 		<td>N-YOKU</td>
-		<td>Matsuriba Techとは 【Matsuriba Tech(NxTEND)】</td>
+		<td>Matsuriba Techとは【Matsuriba Tech(NxTEND)】</td>
 	</tr>
 	<tr>
 		<th></th>
@@ -337,7 +337,7 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 		<td>17:01</td>
 		<td>0:07</td>
 		<td>hourin</td>
-		<td>ゴールドスポンサーLT 【さくらインターネット株式会社様】</td>
+		<td>ゴールドスポンサーLT【さくらインターネット株式会社様】</td>
 	</tr>
 	<tr>
 		<th></th>
@@ -352,8 +352,8 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 		<td>17:11</td>
 		<td>17:18</td>
 		<td>0:07</td>
-		<td>squld</td>
-		<td>VSCode 拡張 Markdown Copilot を作った話</td>
+		<td>浅井雅己</td>
+		<td>デラなごや.jsはじめました【デラなごや.js】</td>
 	</tr>
 	<tr>
 		<th></th>
@@ -368,8 +368,8 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 		<td>17:25</td>
 		<td>17:32</td>
 		<td>0:07</td>
-		<td>浅井雅己</td>
-		<td>デラなごや.jsはじめました 【デラなごや.js】</td>
+		<td>準備中</td>
+		<td></td>
 	</tr>
 	<tr>
 		<th></th>
@@ -392,30 +392,22 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 		<td>17:46</td>
 		<td>17:53</td>
 		<td>0:07</td>
-		<td>準備中</td>
-		<td></td>
+		<td>Keitaro Oshikata</td>
+		<td>会場スポンサーLT【伊藤忠テクノソリューションズ株式会社様】</td>
 	</tr>
 	<tr>
 		<th></th>
 		<td>17:53</td>
 		<td>18:00</td>
 		<td>0:07</td>
-		<td>Keitaro Oshikata</td>
-		<td>会場スポンサーLT 【伊藤忠テクノソリューションズ株式会社様】</td>
-	</tr>
-	<tr>
-		<th></th>
-		<td>18:00</td>
-		<td>18:05</td>
-		<td>0:05</td>
 		<td>スポンサーピッチ</td>
 		<td></td>
 	</tr>
 	<tr>
 		<th></th>
-		<td>18:05</td>
+		<td>18:00</td>
 		<td>18:10</td>
-		<td>0:05</td>
+		<td>0:10</td>
 		<td>クロージング</td>
 		<td></td>
 	</tr>
