@@ -74,6 +74,7 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 申し込み多数の場合は先着順に採択しますので、申込み期限前でもお断りする可能性があります。ご了承ください。
 
 # タイムテーブル（一部調整中のため時間は多少前後する可能性があります）
+
 <table>
 	<tr>
 		<th>枠</th>
@@ -84,15 +85,14 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 		<th>タイトル</th>
 	</tr>
 	<tr>
-		<th></th>
+		<th>オープニング</th>
 		<td>13:00</td>
 		<td>13:10</td>
 		<td>0:10</td>
-		<td>オープニング</td>
-		<td></td>
+		<td colspan="2"></td>
 	</tr>
 	<tr>
-		<th>#1</th>
+    	<th rowspan="7">#1</th>
 		<td>13:10</td>
 		<td>13:17</td>
 		<td>0:07</td>
@@ -100,15 +100,13 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 		<td>JAWS-UG名古屋の楽しみ方【JAWS-UG名古屋】</td>
 	</tr>
 	<tr>
-		<th></th>
 		<td>13:17</td>
 		<td>13:24</td>
 		<td>0:07</td>
-		<td>yuji38kwmt(かわまつ)</td>
-		<td>Kindle漫画の買い過ぎを防ぐため個人用クレジットカードを解約しました</td>
+		<td>yuji38kwmt<br>(かわまつ)</td>
+		<td>Kindle漫画の買い過ぎを防ぐため<br>個人用クレジットカードを解約しました</td>
 	</tr>
 	<tr>
-		<th></th>
 		<td>13:24</td>
 		<td>13:31</td>
 		<td>0:07</td>
@@ -116,7 +114,6 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 		<td>chibiccをCILに移植した結果【Center CLR】</td>
 	</tr>
 	<tr>
-		<th></th>
 		<td>13:31</td>
 		<td>13:38</td>
 		<td>0:07</td>
@@ -124,7 +121,6 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 		<td>メールヘッダーを見てみよう</td>
 	</tr>
 	<tr>
-		<th></th>
 		<td>13:38</td>
 		<td>13:45</td>
 		<td>0:07</td>
@@ -132,7 +128,6 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 		<td>JuliaTokai と JuliaLangJa の紹介【JuliaTokai】</td>
 	</tr>
 	<tr>
-		<th></th>
 		<td>13:45</td>
 		<td>13:52</td>
 		<td>0:07</td>
@@ -140,7 +135,6 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 		<td>動物園（PINTO_model_zoo）に遊びに行こう</td>
 	</tr>
 	<tr>
-		<th></th>
 		<td>13:52</td>
 		<td>13:59</td>
 		<td>0:07</td>
@@ -148,15 +142,14 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 		<td>ゴールドスポンサーLT【有限会社 来栖川電算様】</td>
 	</tr>
 	<tr>
-		<th></th>
+		<th>休憩</th>
 		<td>13:59</td>
 		<td>14:09</td>
 		<td>0:10</td>
-		<td>休憩</td>
-		<td></td>
+		<td colspan="2"></td>
 	</tr>
 	<tr>
-		<th>#2</th>
+    	<th rowspan="7">#2</th>
 		<td>14:09</td>
 		<td>14:16</td>
 		<td>0:07</td>
@@ -164,7 +157,6 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 		<td>いりゃあせ、PHPカンファレンス名古屋2025</td>
 	</tr>
 	<tr>
-		<th></th>
 		<td>14:16</td>
 		<td>14:23</td>
 		<td>0:07</td>
@@ -172,15 +164,13 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 		<td>マラソン走ってみて人生と同じだなと思った話</td>
 	</tr>
 	<tr>
-		<th></th>
 		<td>14:23</td>
 		<td>14:30</td>
 		<td>0:07</td>
 		<td>shinji_ichien</td>
-		<td>GDG Nagoyaのゆるいコミュニティ作りと次やること【GDG Nagoya】</td>
+		<td>GDG Nagoyaのゆるいコミュニティ作りと次やること<br>【GDG Nagoya】</td>
 	</tr>
 	<tr>
-		<th></th>
 		<td>14:30</td>
 		<td>14:37</td>
 		<td>0:07</td>
@@ -188,7 +178,6 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 		<td>色々なAWSサービス名の由来を調べてみた</td>
 	</tr>
 	<tr>
-		<th></th>
 		<td>14:37</td>
 		<td>14:44</td>
 		<td>0:07</td>
@@ -196,7 +185,6 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 		<td>中部分科会の紹介【Jagu&#039;e&#039;r　中部文化会】</td>
 	</tr>
 	<tr>
-		<th></th>
 		<td>14:44</td>
 		<td>14:51</td>
 		<td>0:07</td>
@@ -204,7 +192,6 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 		<td>Matsuriba のイベントテンプレート</td>
 	</tr>
 	<tr>
-		<th></th>
 		<td>14:51</td>
 		<td>14:58</td>
 		<td>0:07</td>
@@ -212,15 +199,14 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 		<td>ゴールドスポンサーLT【株式会社Leaner Technologies様】</td>
 	</tr>
 	<tr>
-		<th></th>
+		<th>休憩</th>
 		<td>14:58</td>
 		<td>15:08</td>
 		<td>0:10</td>
-		<td>休憩</td>
-		<td></td>
+		<td colspan="2"></td>
 	</tr>
 	<tr>
-		<th>#3</th>
+    	<th rowspan="7">#3</th>
 		<td>15:08</td>
 		<td>15:15</td>
 		<td>0:07</td>
@@ -228,7 +214,6 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 		<td>JBUG名古屋はじまるよ【JBUG】</td>
 	</tr>
 	<tr>
-		<th></th>
 		<td>15:15</td>
 		<td>15:22</td>
 		<td>0:07</td>
@@ -236,15 +221,13 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 		<td>ダム</td>
 	</tr>
 	<tr>
-		<th></th>
 		<td>15:22</td>
 		<td>15:29</td>
 		<td>0:07</td>
 		<td>島田　啓史</td>
-		<td>オープンソースカンファレンス Nagoyaへのお誘いOSC名古屋へのお誘い【 オープンソースカンファレンス Nagoya】</td>
+		<td>オープンソースカンファレンス Nagoyaへのお誘い<br>【 オープンソースカンファレンス Nagoya】</td>
 	</tr>
 	<tr>
-		<th></th>
 		<td>15:29</td>
 		<td>15:36</td>
 		<td>0:07</td>
@@ -252,7 +235,6 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 		<td>すべての空間を技術系勉強会にする技術</td>
 	</tr>
 	<tr>
-		<th></th>
 		<td>15:36</td>
 		<td>15:43</td>
 		<td>0:07</td>
@@ -260,7 +242,6 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 		<td>AIで研究会を振り返る【機械学習名古屋研究会】</td>
 	</tr>
 	<tr>
-		<th></th>
 		<td>15:43</td>
 		<td>15:50</td>
 		<td>0:07</td>
@@ -268,7 +249,6 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 		<td>Difyを用いたデジタル秘書の開発</td>
 	</tr>
 	<tr>
-		<th></th>
 		<td>15:50</td>
 		<td>15:57</td>
 		<td>0:07</td>
@@ -276,15 +256,14 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 		<td>ゴールドスポンサーLT【株式会社SmartHR様】</td>
 	</tr>
 	<tr>
-		<th></th>
+		<th>休憩</th>
 		<td>15:57</td>
 		<td>16:12</td>
 		<td>0:15</td>
-		<td>休憩【みんなでラジオ体操✨️】</td>
-		<td></td>
+		<td colspan="2">📻みんなでラジオ体操🤸</td>
 	</tr>
 	<tr>
-		<th>#4</th>
+    	<th rowspan="7">#4</th>
 		<td>16:12</td>
 		<td>16:19</td>
 		<td>0:07</td>
@@ -292,7 +271,6 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 		<td>VSCode 拡張 Markdown Copilot を作った話</td>
 	</tr>
 	<tr>
-		<th></th>
 		<td>16:19</td>
 		<td>16:26</td>
 		<td>0:07</td>
@@ -300,15 +278,13 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 		<td>あなたの知らないクラフトビールの世界</td>
 	</tr>
 	<tr>
-		<th></th>
 		<td>16:26</td>
 		<td>16:33</td>
 		<td>0:07</td>
 		<td>kato-taka　果糖</td>
-		<td>鯱.pyはいいぞ！【鯱​.py】</td>
+		<td>鯱.pyはいいぞ！【鯱.py】</td>
 	</tr>
 	<tr>
-		<th></th>
 		<td>16:33</td>
 		<td>16:40</td>
 		<td>0:07</td>
@@ -316,7 +292,6 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 		<td>年末のリリースが大変で名古屋に遊びに来たらLT会にいた</td>
 	</tr>
 	<tr>
-		<th></th>
 		<td>16:40</td>
 		<td>16:47</td>
 		<td>0:07</td>
@@ -324,15 +299,13 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 		<td>Matsuriba Techとは【Matsuriba Tech(NxTEND)】</td>
 	</tr>
 	<tr>
-		<th></th>
 		<td>16:47</td>
 		<td>16:54</td>
 		<td>0:07</td>
-		<td>準備中</td>
-		<td></td>
+		<td>ごま</td>
+		<td>新年によくやるアレ</td>
 	</tr>
 	<tr>
-		<th></th>
 		<td>16:54</td>
 		<td>17:01</td>
 		<td>0:07</td>
@@ -340,15 +313,14 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 		<td>ゴールドスポンサーLT【さくらインターネット株式会社様】</td>
 	</tr>
 	<tr>
-		<th></th>
+		<th>休憩</th>
 		<td>17:01</td>
 		<td>17:11</td>
 		<td>0:10</td>
-		<td>休憩</td>
-		<td></td>
+		<td colspan="2"></td>
 	</tr>
 	<tr>
-		<th>#5</th>
+    	<th rowspan="6">#5</th>
 		<td>17:11</td>
 		<td>17:18</td>
 		<td>0:07</td>
@@ -356,7 +328,6 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 		<td>デラなごや.jsはじめました【デラなごや.js】</td>
 	</tr>
 	<tr>
-		<th></th>
 		<td>17:18</td>
 		<td>17:25</td>
 		<td>0:07</td>
@@ -364,76 +335,65 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 		<td>配信の裏側</td>
 	</tr>
 	<tr>
-		<th></th>
 		<td>17:25</td>
 		<td>17:32</td>
 		<td>0:07</td>
-		<td>準備中</td>
-		<td></td>
+		<td>坂梨　功典</td>
+		<td>OWASP TOP 10シリーズって知ってます？</td>
 	</tr>
 	<tr>
-		<th></th>
 		<td>17:32</td>
 		<td>17:39</td>
 		<td>0:07</td>
-		<td>準備中</td>
-		<td></td>
+		<td>Masaki Suzuki</td>
+		<td>AWS Community Builderのススメ<br> - みんなもCommunity Builderに応募しよう！ -</td>
 	</tr>
 	<tr>
-		<th></th>
 		<td>17:39</td>
 		<td>17:46</td>
 		<td>0:07</td>
-		<td>準備中</td>
-		<td></td>
+		<td>fresh_salmon256</td>
+		<td>NRUGと名古屋支部について</td>
 	</tr>
 	<tr>
-		<th></th>
 		<td>17:46</td>
 		<td>17:53</td>
 		<td>0:07</td>
 		<td>Keitaro Oshikata</td>
-		<td>会場スポンサーLT【伊藤忠テクノソリューションズ株式会社様】</td>
+		<td>会場スポンサーLT<br>【伊藤忠テクノソリューションズ株式会社様】</td>
 	</tr>
 	<tr>
-		<th></th>
+		<th>スポンサー<br>ピッチ</th>
 		<td>17:53</td>
 		<td>18:00</td>
 		<td>0:07</td>
-		<td>スポンサーピッチ</td>
-		<td></td>
+		<td colspan="2"></td>
 	</tr>
 	<tr>
-		<th></th>
+		<th>クロージング</th>
 		<td>18:00</td>
 		<td>18:10</td>
 		<td>0:10</td>
-		<td>クロージング</td>
-		<td></td>
+		<td colspan="2"></td>
 	</tr>
 	<tr>
-		<th>懇親会</th>
+		<th rowspan="3">夜の部<br>懇親会</th>
 		<td>18:10</td>
 		<td>18:30</td>
 		<td>0:20</td>
-		<td>懇親会準備</td>
-		<td></td>
+		<td colspan="2">懇親会準備</td>
 	</tr>
 	<tr>
-		<th></th>
 		<td>18:30</td>
 		<td>20:30</td>
 		<td>2:00</td>
-		<td>懇親会</td>
-		<td></td>
+		<td colspan="2">懇親会</td>
 	</tr>
 	<tr>
-		<th></th>
 		<td>20:30</td>
 		<td>21:00</td>
 		<td>0:30</td>
-		<td>撤収</td>
-		<td></td>
+		<td colspan="2">撤収</td>
 	</tr>
 </table>
 
@@ -573,3 +533,5 @@ NGKはボランティアの運営メンバー、およびスポンサー・コ�
 運営へ参加・協力いただける方は[NGK 実行委員会 運営参加応募フォーム](https://docs.google.com/forms/d/e/1FAIpQLSeprar-ncaWQfn2u_ROqSu8QQN1qI6aJ8Sz9E17vvRTXfS8ag/viewform)よりお願いいたします。
 
 イベントバナー制作: [imamuray](https://connpass.com/user/imamuray/open/)
+
+イベントグッズ制作: [kota23](https://connpass.com/user/kota23nisan/open/)
