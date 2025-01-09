@@ -440,13 +440,13 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 
 <table>
 <tr>
-<td style="padding: 9px; text-align:center;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/ttskch.png"/><br/><a href="https://connpass.com/user/ttskch/">たつきち様</a></td>
-<td style="padding: 9px; text-align:center;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/squld.png"/><br/><a href="https://connpass.com/user/squld/">squld様</a></td>
-<td style="padding: 9px; text-align:center;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/TOOKA.png"/><br/><a href="https://connpass.com/user/TOOKA/">tooka_91様</a></td>
-<td style="padding: 9px; text-align:center;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/Ryo_Haruyama.png"/><br/><a href="https://connpass.com/user/Ryo_Haruyama/">Ryo Haruyama様</a></td>
+<td style="padding: 9px; text-align:center;"><img width="150" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/ttskch.png"/><br/><a href="https://connpass.com/user/ttskch/">たつきち様</a></td>
+<td style="padding: 9px; text-align:center;"><img width="150" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/squld.png"/><br/><a href="https://connpass.com/user/squld/">squld様</a></td>
+<td style="padding: 9px; text-align:center;"><img width="150" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/TOOKA.png"/><br/><a href="https://connpass.com/user/TOOKA/">tooka_91様</a></td>
+<td style="padding: 9px; text-align:center;"><img width="150" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/Ryo_Haruyama.png"/><br/><a href="https://connpass.com/user/Ryo_Haruyama/">Ryo Haruyama様</a></td>
 </tr>
 <tr>
-<td style="padding: 9px; text-align:center;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/haseaki0503.png"/><br/><a href="https://connpass.com/user/haseaki0503/">はせあき様</a></td>
+<td style="padding: 9px; text-align:center;"><img width="150" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/haseaki0503.png"/><br/><a href="https://connpass.com/user/haseaki0503/">はせあき様</a></td>
 </tr>
 </table>
 
@@ -454,28 +454,28 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 
 <table>
 <tr>
-<td style="padding: 9px; text-align:center;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/julia-tokai.jpg"/><br/><a href="https://juliatokai.connpass.com/">JuliaTokai</a></td>
-<td style="padding: 9px; text-align:center;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/jaws-ug-nagoya.png"/><br/><a href="https://jawsug-nagoya.connpass.com/">JAWS UG 名古屋</a></td>
-<td style="padding: 9px; text-align:center;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/><a href="https://nagoyavim.connpass.com/">Nagoya.vim</a></td>
-<td style="padding: 9px; text-align:center;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/ml-nagoya.png"/><br/><a href="https://machine-learning.connpass.com/">機械学習名古屋 研究会</a></td>
+<td style="padding: 9px; text-align:center;"><img width="150" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/julia-tokai.jpg"/><br/><a href="https://juliatokai.connpass.com/">JuliaTokai</a></td>
+<td style="padding: 9px; text-align:center;"><img width="150" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/jaws-ug-nagoya.png"/><br/><a href="https://jawsug-nagoya.connpass.com/">JAWS UG 名古屋</a></td>
+<td style="padding: 9px; text-align:center;"><img width="150" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/><a href="https://nagoyavim.connpass.com/">Nagoya.vim</a></td>
+<td style="padding: 9px; text-align:center;"><img width="150" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/ml-nagoya.png"/><br/><a href="https://machine-learning.connpass.com/">機械学習名古屋 研究会</a></td>
 </tr>
 <tr>
-<td style="padding: 9px; text-align:center;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/jack.png"/><br/><a href="https://www.jackapp.jp/">名古屋大学アプリ開発団体jack</a></td>
-<td style="padding: 9px; text-align:center;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/scug.jpg"/><br/><a href="https://techplay.jp/community/snowvillage-central">Snowflake中部ユーザー会</a></td>
-<td style="padding: 9px; text-align:center;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/tableau.jpg"/><br/><a href="https://techplay.jp/community/tableau-chubu">中部Tableauユーザー会</a></td>
-<td style="padding: 9px; text-align:center;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/delanagoya.png"/><br/><a href="https://delanagoya.connpass.com/">デラなごや.js</a></td>
+<td style="padding: 9px; text-align:center;"><img width="150" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/jack.png"/><br/><a href="https://www.jackapp.jp/">名古屋大学アプリ開発団体jack</a></td>
+<td style="padding: 9px; text-align:center;"><img width="150" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/scug.jpg"/><br/><a href="https://techplay.jp/community/snowvillage-central">Snowflake中部ユーザー会</a></td>
+<td style="padding: 9px; text-align:center;"><img width="150" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/tableau.jpg"/><br/><a href="https://techplay.jp/community/tableau-chubu">中部Tableauユーザー会</a></td>
+<td style="padding: 9px; text-align:center;"><img width="150" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/delanagoya.png"/><br/><a href="https://delanagoya.connpass.com/">デラなごや.js</a></td>
 </tr>
 <tr>
-<td style="padding: 9px; text-align:center;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/center-clr.png"/><br/><a href="https://centerclr.connpass.com/">Center CLR</a></td>
-<td style="padding: 9px; text-align:center;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/gdg_nagoya.png"/><br/><a href="https://gdg.community.dev/gdg-nagoya/">GDG Nagoya</a></td>
-<td style="padding: 9px; text-align:center;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/>オープンソース<br>カンファレンス Nagoya</td>
-<td style="padding: 9px; text-align:center;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/><a href="https://jaguer.jp/chubu_lp/">Jagu'e'r 中部分科会</a></td>
+<td style="padding: 9px; text-align:center;"><img width="150" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/center-clr.png"/><br/><a href="https://centerclr.connpass.com/">Center CLR</a></td>
+<td style="padding: 9px; text-align:center;"><img width="150" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/gdg-nagoya-logo.png"/><br/><a href="https://gdg.community.dev/gdg-nagoya/">GDG Nagoya</a></td>
+<td style="padding: 9px; text-align:center;"><img width="150" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/>オープンソース<br>カンファレンス Nagoya</td>
+<td style="padding: 9px; text-align:center;"><img width="150" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/jaguer_chubu_logo.png"/><br/><a href="https://jaguer.jp/chubu_lp/">Jagu'e'r 中部分科会</a></td>
 </tr>
 <tr>
-<td style="padding: 9px; text-align:center;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/matsuriba-tech.png"/><br/><a href="https://www.nxtend.or.jp/">Matsuriba Tech(NxTEND)</a></td>
-<td style="padding: 9px; text-align:center;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/shachi_py.png"/><br/><a href="https://shachi-py.connpass.com/">鯱.py</a></td>
-<td style="padding: 9px; text-align:center;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/JBUG_logo.png"/><br/><a href="https://jbuginfo.backlog.com/">JBUG名古屋</a></td>
-<td style="padding: 9px; text-align:center;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/owasp-nagoya.png"/><br/><a href="https://owasp.org/www-chapter-nagoya/">OWASP Nagoya</a></td>
+<td style="padding: 9px; text-align:center;"><img width="150" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/matsuriba-tech.png"/><br/><a href="https://www.nxtend.or.jp/">Matsuriba Tech(NxTEND)</a></td>
+<td style="padding: 9px; text-align:center;"><img width="150" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/shachi_py.png"/><br/><a href="https://shachi-py.connpass.com/">鯱.py</a></td>
+<td style="padding: 9px; text-align:center;"><img width="150" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/JBUG_logo.png"/><br/><a href="https://jbuginfo.backlog.com/">JBUG名古屋</a></td>
+<td style="padding: 9px; text-align:center;"><img width="150" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/owasp-nagoya.png"/><br/><a href="https://owasp.org/www-chapter-nagoya/">OWASP Nagoya</a></td>
 </tr>
 </table>
 
