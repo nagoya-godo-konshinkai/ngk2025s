@@ -21,9 +21,17 @@ NGK（名古屋合同懇親会）とは、1年に1度行っている東海地方
 # 開催日時・場所
 日時: 2025年1月18日(土)
 
-会場: [中日ビル 伊藤忠テクノソリューションズ様 セミナースペース](https://maps.app.goo.gl/Gww8KMXanv1NbK8g8)
+会場: [中日ビル 11階 伊藤忠テクノソリューションズ様 セミナースペース](https://maps.app.goo.gl/Gww8KMXanv1NbK8g8)
 
-会場への詳細な経路は今後本ページに掲載予定です。
+### 会場へのアクセス
+https://docs.google.com/presentation/d/10VgZ-8tjlHM0oOllBYVJvjiQuBqQn7q-iyxzwjeCZQw をご参照ください。
+
+### 会場での諸注意
+WIP
+
+### 受付方法
+[connpassの受付票](https://ngk.connpass.com/event/334796/ticket/)に記載されているQRコードを提示してください。
+
 
 # 昼の部: LT大会
 詳細は昼の部connpassページをご覧ください: [NGK2025S 昼の部 LT大会](https://ngk.connpass.com/event/334796/)
