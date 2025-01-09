@@ -213,6 +213,6 @@ NGKはボランティアの運営メンバー、およびスポンサー・コ�
 
 運営へ参加・協力いただける方は[NGK 実行委員会 運営参加応募フォーム](https://docs.google.com/forms/d/e/1FAIpQLSeprar-ncaWQfn2u_ROqSu8QQN1qI6aJ8Sz9E17vvRTXfS8ag/viewform)よりお願いいたします。
 
-
-
 イベントバナー制作: [imamuray](https://connpass.com/user/imamuray/open/)
+
+イベントグッズ制作: [kota23](https://connpass.com/user/kota23nisan/open/)
