@@ -30,7 +30,7 @@ https://docs.google.com/presentation/d/10VgZ-8tjlHM0oOllBYVJvjiQuBqQn7q-iyxzwjeC
 WIP
 
 ### 受付方法
-[connpassの受付票](https://ngk.connpass.com/event/334796/ticket/)に記載されているQRコードを提示してください。
+WIP
 
 
 # 昼の部: LT大会
