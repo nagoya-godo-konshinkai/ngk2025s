@@ -363,7 +363,7 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 		<td>会場スポンサーLT<br>【伊藤忠テクノソリューションズ株式会社様】</td>
 	</tr>
 	<tr>
-		<th>スポンサー<br>ピッチ</th>
+		<th>スポンサーピッチ</th>
 		<td>17:53</td>
 		<td>18:00</td>
 		<td>0:07</td>
@@ -377,7 +377,7 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 		<td colspan="2"></td>
 	</tr>
 	<tr>
-		<th rowspan="3">夜の部<br>懇親会</th>
+		<th rowspan="3">夜の部 懇親会</th>
 		<td>18:10</td>
 		<td>18:30</td>
 		<td>0:20</td>
