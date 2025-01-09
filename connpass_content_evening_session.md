@@ -141,7 +141,7 @@ NGK（名古屋合同懇親会）とは、1年に1度行っている東海地方
 <tr>
 <td style="padding: 9px; text-align:center;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/center-clr.png"/><br/><a href="https://centerclr.connpass.com/">Center CLR</a></td>
 <td style="padding: 9px; text-align:center;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/gdg_nagoya.png"/><br/><a href="https://gdg.community.dev/gdg-nagoya/">GDG Nagoya</a></td>
-<td style="padding: 9px; text-align:center;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/><a href="https://event.ospn.jp/osc2025-nagoya/">オープンソースカンファレンス Nagoya</a></td>
+<td style="padding: 9px; text-align:center;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/><a href="https://event.ospn.jp/osc2025-nagoya/">オープンソース<br>カンファレンス Nagoya</a></td>
 <td style="padding: 9px; text-align:center;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/><a href="https://jaguer.jp/chubu_lp/">Jagu'e'r 中部分科会</a></td>
 </tr>
 <tr>
