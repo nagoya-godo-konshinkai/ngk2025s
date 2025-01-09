@@ -446,8 +446,6 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 <td style="padding: 12px; text-align:center;">
 	<img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/sponsor/ctc.png"/><br/><a href="https://www.ctc-g.co.jp/">伊藤忠テクノソリューションズ株式会社</a>
 </td>
-<td style="padding: 12px; text-align:center;"></td>
-<td style="padding: 12px; text-align:center;"></td>
 </tr>
 </table>
 
@@ -461,8 +459,6 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 </tr>
 <tr>
 <td style="padding: 12px; text-align:center;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/sponsor/kci.png"/><br/><a href="https://www.kurusugawa.jp/">有限会社来栖川電算</a></td>
-<td style="padding: 12px; text-align:center;"></td>
-<td style="padding: 12px; text-align:center;"></td>
 </tr>
 </table>
 
@@ -491,9 +487,6 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 </tr>
 <tr>
 <td style="padding: 9px; text-align:center;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/haseaki0503.png"/><br/><a href="https://connpass.com/user/haseaki0503/">はせあき様</a></td>
-<td style="padding: 9px; text-align:center;"></td>
-<td style="padding: 9px; text-align:center;"></td>
-<td style="padding: 9px; text-align:center;"></td>
 </tr>
 </table>
 
