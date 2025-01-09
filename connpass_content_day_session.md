@@ -23,7 +23,7 @@ NGK（名古屋合同懇親会）とは、1年に1度行っている東海地方
 会場: [中日ビル 11階 伊藤忠テクノソリューションズ様 セミナースペース](https://maps.app.goo.gl/Gww8KMXanv1NbK8g8)
 
 ### 会場へのアクセス
-https://docs.google.com/presentation/d/10VgZ-8tjlHM0oOllBYVJvjiQuBqQn7q-iyxzwjeCZQw をご参照ください。
+connpassイベントページの上部に記載されている「参加者への情報」をご参照ください。
 
 ### 会場での諸注意
 WIP
