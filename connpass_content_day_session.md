@@ -473,7 +473,7 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 <tr>
 <td style="padding: 9px; text-align:center;"><img width="150" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/julia-tokai.jpg"/><br/><a href="https://juliatokai.connpass.com/">JuliaTokai</a></td>
 <td style="padding: 9px; text-align:center;"><img width="150" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/jaws-ug-nagoya.png"/><br/><a href="https://jawsug-nagoya.connpass.com/">JAWS UG 名古屋</a></td>
-<td style="padding: 9px; text-align:center;"><img width="150" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/><a href="https://nagoyavim.connpass.com/">Nagoya.vim</a></td>
+<td style="padding: 9px; text-align:center;"><img width="150" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/nagoyavim.png"/><br/><a href="https://nagoyavim.connpass.com/">Nagoya.vim</a></td>
 <td style="padding: 9px; text-align:center;"><img width="150" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/ml-nagoya.png"/><br/><a href="https://machine-learning.connpass.com/">機械学習名古屋 研究会</a></td>
 </tr>
 <tr>
@@ -485,7 +485,7 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 <tr>
 <td style="padding: 9px; text-align:center;"><img width="150" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/center-clr.png"/><br/><a href="https://centerclr.connpass.com/">Center CLR</a></td>
 <td style="padding: 9px; text-align:center;"><img width="150" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/gdg-nagoya-logo.png"/><br/><a href="https://gdg.community.dev/gdg-nagoya/">GDG Nagoya</a></td>
-<td style="padding: 9px; text-align:center;"><img width="150" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/empty.png"/><br/>オープンソース<br>カンファレンス Nagoya</td>
+<td style="padding: 9px; text-align:center;"><img width="150" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/oscnagoya-NGK-v2.png"/><br/><a href="https://event.ospn.jp/osc2025-nagoya/">オープンソース<br>カンファレンス Nagoya</a></td>
 <td style="padding: 9px; text-align:center;"><img width="150" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/jaguer_chubu_logo.png"/><br/><a href="https://jaguer.jp/chubu_lp/">Jagu'e'r 中部分科会</a></td>
 </tr>
 <tr>
