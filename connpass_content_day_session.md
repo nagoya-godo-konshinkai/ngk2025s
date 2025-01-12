@@ -19,6 +19,8 @@ NGK（名古屋合同懇親会）とは、1年に1度行っている東海地方
 # 開催日時・場所
 
 日時: 2025年1月18日(土)
+* 12:30 開場・受付開始
+* 13:00 開始
 
 会場: [中日ビル 11階 伊藤忠テクノソリューションズ様 セミナースペース](https://maps.app.goo.gl/Gww8KMXanv1NbK8g8)
 
@@ -28,6 +30,7 @@ connpassイベントページの上部に記載されている「参加者への
 ### 会場での諸注意
 * 会場に参加者向けのWiFiはありません。
 * 会場に参加者向けのゴミ箱はありません。ゴミは持ち帰るようお願いします。
+* 必ず伊藤忠テクノソリューションズ様・実行委員会メンバーの指示に従ってください。
 
 
 ### 受付方法
@@ -37,12 +40,15 @@ connpassイベントページの上部に記載されている「参加者への
 # 昼の部: LT大会
 
 ### 時間
-* 12:30 開場
-* 13:00～18:30（多少前後する可能性あり）
+
+13:00～18:10（多少前後する可能性あり）
 
 ### 参加費
 
 無料
+
+### 各種募集は締切りました
+
 
 # 夜の部：懇親会
 
@@ -58,31 +64,6 @@ connpassイベントページの上部に記載されている「参加者への
 
 社会人5000円程度、学生1000円程度（必ず学生証をお持ちください）を予定しています。
 
-# 各種募集は締切りました
-
-## 一般LT 【今回の募集は一旦締め切りましたが、応募フォームに未記入の方は早急に記入をお願いいたします！】
-
-一般LT発表者を募集中です。
-
-NGKはIT系コミュニティ合同のイベントではありますが、LT内容は必ずしも「IT」にこだわる必要はありません。例年、「広島カープ」、「チョコレート」、「京都の風光明媚な写真」などなど、様々なトピックが出てきます。もちろんLT発表初心者も大歓迎です！
-過去のLT発表内容は[過去のイベント実績](https://ngk.connpass.com/event/)、もしくは[Youtubeのアーカイブ](https://www.youtube.com/@NagoyaGodoKonshinkai)をご覧ください。
-
-### 申し込み方法
-
-LT発表を希望される方は、[LTレギュレーション](https://nagoya-godo-konshinkai.github.io/ngk2025s/lt_regulation.html)をお読みの上、connpassページの一般LT枠から参加申込を行ってください。
-
-また、LT発表の内容・タイトルが[LTレギュレーション](https://nagoya-godo-konshinkai.github.io/ngk2025s/lt_regulation.html)に適合するかどうか事前に審査を行いますので、参加申込と同時に[応募フォーム](https://forms.gle/Ewbbb7p4BchjKQSEA)に必要事項を入力してください。
-
-審査通過の可否に関わらず、応募フォームに入力いただいたメールアドレスに連絡いたします。審査および採択は随時行います。
-
-（万が一2週間以上連絡が無い場合、審査漏れ等の可能性がありますので一度[イベント管理者への問い合わせ]よりお問い合わせください。）
-
-### 申し込み期限
-
-**2024/12/27（金） 18:00**
-
-申し込み多数の場合は先着順に採択しますので、申込み期限前でもお断りする可能性があります。ご了承ください。
-
 # タイムテーブル（一部調整中のため時間は多少前後する可能性があります）
 
 <table>
@@ -95,11 +76,11 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 		<th>タイトル</th>
 	</tr>
   <tr>
-		<th></th>
+		<th>開場</th>
 		<td>12:30</td>
 		<td>13:00</td>
 		<td>0:30</td>
-		<td colspan="2">開場</td>
+		<td colspan="2">受付開始</td>
 	</tr>
   <tr>
 		<th>オープニング</th>
@@ -380,7 +361,7 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 		<td>会場スポンサーLT<br>【伊藤忠テクノソリューションズ株式会社様】</td>
 	</tr>
 	<tr>
-		<th>スポンサーピッチ</th>
+		<th>スポンサー<br>ピッチ</th>
 		<td>17:53</td>
 		<td>18:00</td>
 		<td>0:07</td>
@@ -394,7 +375,7 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 		<td colspan="2"></td>
 	</tr>
 	<tr>
-		<th rowspan="3">夜の部 懇親会</th>
+		<th rowspan="3">夜の部<br>懇親会</th>
 		<td>18:10</td>
 		<td>18:30</td>
 		<td>0:20</td>
@@ -464,8 +445,10 @@ LT発表を希望される方は、[LTレギュレーション](https://nagoya-g
 </tr>
 <tr>
 <td style="padding: 9px; text-align:center;"><img width="150" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/haseaki0503.png"/><br/><a href="https://connpass.com/user/haseaki0503/">はせあき様</a></td>
+<td style="padding: 9px; text-align:center;"><img width="150" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/kotashan.png"/><br/><a href="https://connpass.com/user/kotashan/">こてつ様</a></td>
 </tr>
 </table>
+![alt text](image.png)
 
 # コミュニティ参加（申し込み順）
 
