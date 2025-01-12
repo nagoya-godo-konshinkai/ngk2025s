@@ -2,13 +2,10 @@
 
 ## 所在地
 
+[中日ビル 11階](https://maps.app.goo.gl/hq1PWuo33Xz6JzzN6)
 伊藤忠テクノソリューションズ 名古屋オフィス
 
-[中日ビル 11階](https://maps.app.goo.gl/hq1PWuo33Xz6JzzN6)（名古屋市中区栄4丁目1-1）
-
 ## アクセス方法
-
-今回の会場は、中日ビルのオフィスエリアにあります。
 
 中日ビルは地下鉄東山線・名城線「栄」駅、名鉄瀬戸線「栄町」駅より地下街で直結しています。
 
@@ -16,30 +13,24 @@
 
 まずはオフィスエリア入口となる2階オフィスエリアのエレベーターロビーへ向かっていただく必要があります。
 
-### 地下街からいらっしゃる場合（地下1階から2階オフィスエリアのエレベーターロビーへ）
+### 地下街からいらっしゃる場合（地下1階から2階へ）
 
 左前にオフィスエリアへ向かうエスカレーター・エレベーターがありますので、そちらでまずは2階に向かってください。
 
-<img src="docs/img/other/地下1階.png" width="550">
-
-<img src="docs/img/other/地下1階_中日ビル入口.png" height="300"><img src="docs/img/other/地下1階_エスカレーター.png" height="300">
-
-### 地上からいらっしゃる場合（1階から2階オフィスエリアのエレベーターロビーへ）
-
+<img src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/地下1階.png" width="550">
+<img src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/地下1階_エスカレーター.png" height="300">
+### 地上からいらっしゃる場合（1階から2階へ）
 広小路通側にオフィスエリアへの入口がありますので、そこからエスカレーター・エレベーターでまずは2階に向かってください。
 
-<img src="docs/img/other/1階.png" height="300"><img src="docs/img/other/1階_エスカレーター.png" height="300">
+<img src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/1階.png" height="300">
 
-### 2階オフィスエリアのエレベーターロビーから会場まで
+### 2階から会場まで
+エレベーターで、11階に向かってください。
 
-ここからオフィスの各階に行けますので、11階に向かってください。
+なお、エレベーターに乗る前のボタンで指定する必要がありますのでご注意ください。
 
-ただしその際にエレベーターの行き先を、エレベーターに乗る前のボタンで指定する必要があります。
+エレベーター手前にある下図パネルで11階を押すとエレベーターが来ます。
 
-下図のパネルがエレベーターが並んでいる場所の手前にあるため、そこで11階を押すとエレベーターが来ます。
-
-<img src="docs/img/other/2階_エレベーターパネル.png" height="300">
+<img src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/2階_エレベーターパネル.png" height="300">
 
 11階エレベーターホールの看板を見て左手に進んでください。
-
-<img src="docs/img/other/11階_エレベーターホール.png" height="300">
