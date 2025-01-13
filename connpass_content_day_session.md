@@ -85,11 +85,11 @@ connpassイベントページの上部に記載されている「参加者への
 		<td colspan="2">受付開始</td>
 	</tr>
   <tr>
-		<th>オープニング</th>
+		<th></th>
 		<td>13:00</td>
 		<td>13:10</td>
 		<td>0:10</td>
-		<td colspan="2"></td>
+		<td colspan="2">オープニング</td>
 	</tr>
 	<tr>
     	<th rowspan="7">#1</th>
@@ -142,11 +142,11 @@ connpassイベントページの上部に記載されている「参加者への
 		<td>エスカレーター見守り君<br>【ゴールドスポンサー: 有限会社 来栖川電算様】</td>
 	</tr>
 	<tr>
-		<th>休憩</th>
+		<th></th>
 		<td>13:59</td>
 		<td>14:09</td>
 		<td>0:10</td>
-		<td colspan="2"></td>
+		<td colspan="2">休憩</td>
 	</tr>
 	<tr>
     	<th rowspan="7">#2</th>
@@ -199,11 +199,11 @@ connpassイベントページの上部に記載されている「参加者への
 		<td>Leanerって何やってる会社？<br>【ゴールドスポンサー: 株式会社Leaner Technologies様】</td>
 	</tr>
 	<tr>
-		<th>休憩</th>
+		<th></th>
 		<td>14:58</td>
 		<td>15:08</td>
 		<td>0:10</td>
-		<td colspan="2"></td>
+		<td colspan="2">休憩</td>
 	</tr>
 	<tr>
     	<th rowspan="7">#3</th>
@@ -256,11 +256,11 @@ connpassイベントページの上部に記載されている「参加者への
 		<td>SmartHR 会社紹介LT<br>【ゴールドスポンサー: 株式会社SmartHR様】</td>
 	</tr>
 	<tr>
-		<th>休憩</th>
+		<th></th>
 		<td>15:57</td>
 		<td>16:12</td>
 		<td>0:15</td>
-		<td colspan="2">📻みんなでラジオ体操🤸</td>
+		<td colspan="2">休憩 ～📻みんなでラジオ体操🤸～</td>
 	</tr>
 	<tr>
     	<th rowspan="7">#4</th>
@@ -313,11 +313,11 @@ connpassイベントページの上部に記載されている「参加者への
 		<td>ポストコロナ時代のハイブリッドイベント設計と配信技術入門<br>【ゴールドスポンサー: さくらインターネット株式会社様】</td>
 	</tr>
 	<tr>
-		<th>休憩</th>
+		<th></th>
 		<td>17:01</td>
 		<td>17:11</td>
 		<td>0:10</td>
-		<td colspan="2"></td>
+		<td colspan="2">休憩</td>
 	</tr>
 	<tr>
     	<th rowspan="6">#5</th>
@@ -363,18 +363,18 @@ connpassイベントページの上部に記載されている「参加者への
 		<td>C〇Cの倒し方　知ってますよ？<br>【会場スポンサー: 伊藤忠テクノソリューションズ株式会社様】</td>
 	</tr>
 	<tr>
-		<th>スポンサー<br>ピッチ</th>
+		<th></th>
 		<td>17:53</td>
 		<td>18:00</td>
 		<td>0:07</td>
-		<td colspan="2"></td>
+		<td colspan="2">スポンサーピッチ</td>
 	</tr>
 	<tr>
-		<th>クロージング</th>
+		<th></th>
 		<td>18:00</td>
 		<td>18:10</td>
 		<td>0:10</td>
-		<td colspan="2"></td>
+		<td colspan="2">クロージング</td>
 	</tr>
 	<tr>
 		<th rowspan="3">夜の部<br>懇親会</th>
