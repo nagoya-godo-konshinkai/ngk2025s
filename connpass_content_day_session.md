@@ -282,7 +282,7 @@ connpassイベントページの上部に記載されている「参加者への
 		<td>16:33</td>
 		<td>0:07</td>
 		<td>kato-taka　果糖</td>
-		<td>鯱.pyはいいぞ！【鯱.py】</td>
+		<td>鯱.pyはいいぞ！【鯱​.py】</td>
 	</tr>
 	<tr>
 		<td>16:33</td>
@@ -450,7 +450,7 @@ connpassイベントページの上部に記載されている「参加者への
 <td style="padding: 9px; text-align:center;"><img width="150" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/other/kotashan.png"/><br/><a href="https://connpass.com/user/kotashan/">こてつ様</a></td>
 </tr>
 </table>
-![alt text](image.png)
+
 
 # コミュニティ参加（申し込み順）
 
