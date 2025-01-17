@@ -296,7 +296,7 @@ connpassイベントページの上部に記載されている「参加者への
 		<td>16:47</td>
 		<td>0:07</td>
 		<td>Utahshi</td>
-		<td>Matsuriba Techとは【Matsuriba Tech(NxTEND)】</td>
+		<td>祭りの継承へ<br>～広がっていく祭り場ブランド～【Matsuriba Tech(NxTEND)】</td>
 	</tr>
 	<tr>
 		<td>16:47</td>
