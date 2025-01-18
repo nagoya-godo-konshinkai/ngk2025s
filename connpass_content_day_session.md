@@ -16,6 +16,11 @@ NGK（名古屋合同懇親会）とは、1年に1度行っている東海地方
 
 なお会場のセキュリティ上、参加申込時に「氏名（本名）」の記入が必要です。また身分証（免許証・身分証明・名刺等）の確認を行う可能性がありますのでご了承ください。記入頂いた内容は入場者の確認にのみ使用いたします。
 
+# 配信
+
+今年も[Youtube Live](https://www.youtube.com/watch?v=vqi_GaxBuho)にて同時配信を行います！会場に来られない方もぜひご覧ください。connpass参加申し込みがなくても視聴いただけます。
+
+
 # 開催日時・場所
 
 日時: 2025年1月18日(土)
@@ -480,6 +485,7 @@ connpassイベントページの上部に記載されている「参加者への
 <td style="padding: 9px; text-align:center;"><img width="150" src="https://nagoya-godo-konshinkai.github.io/ngk2025s/img/community/owasp-nagoya.png"/><br/><a href="https://owasp.org/www-chapter-nagoya/">OWASP Nagoya</a></td>
 </tr>
 </table>
+
 
 # アンチハラスメントポリシー
 
